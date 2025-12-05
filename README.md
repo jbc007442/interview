@@ -137,13 +137,12 @@ Table	DataTables
 AJAX CRUD	Fetch API
 🧪 Future Improvements (Optional)
 
-Add Laravel Breeze or Jetstream authentication
+
 
 Add pagination in API
 
 Add search & filters in table
 
-Add role-based access
 
 📜 License
 
